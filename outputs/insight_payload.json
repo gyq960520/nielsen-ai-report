@@ -1,0 +1,337 @@
+{
+  "brand": "外星人电解质水",
+  "latest_fy": 2026,
+  "latest_fq": "Q1",
+  "overview": {
+    "latest_quarter_sales_value": 7259791.65991,
+    "latest_quarter_share_value_pct": 0.0,
+    "share_yoy_pp": null,
+    "brand_sales_yoy_pct": null,
+    "category_sales_yoy_pct": null,
+    "share_story": "无法判断（缺少同比基期）"
+  },
+  "monthly_trend": [
+    {
+      "month": "2021-01",
+      "sales_value": 25569.7,
+      "share_value_pct": 0.0
+    },
+    {
+      "month": "2021-02",
+      "sales_value": 29378.4,
+      "share_value_pct": 0.0
+    },
+    {
+      "month": "2021-03",
+      "sales_value": 55417.8,
+      "share_value_pct": 0.0
+    },
+    {
+      "month": "2021-04",
+      "sales_value": 106724.2,
+      "share_value_pct": 0.0
+    },
+    {
+      "month": "2021-05",
+      "sales_value": 148467.2,
+      "share_value_pct": 2.070580937519334
+    },
+    {
+      "month": "2021-06",
+      "sales_value": 207640.3,
+      "share_value_pct": 2.550157611283096
+    },
+    {
+      "month": "2021-07",
+      "sales_value": 268541.2,
+      "share_value_pct": 3.0140286213219047
+    },
+    {
+      "month": "2021-08",
+      "sales_value": 299716.4,
+      "share_value_pct": 3.351435697586417
+    },
+    {
+      "month": "2021-09",
+      "sales_value": 316320.6,
+      "share_value_pct": 3.7049171899557045
+    },
+    {
+      "month": "2021-10",
+      "sales_value": 315488.2,
+      "share_value_pct": 4.275021861871066
+    },
+    {
+      "month": "2021-11",
+      "sales_value": 251395.4,
+      "share_value_pct": 4.266065552026712
+    },
+    {
+      "month": "2021-12",
+      "sales_value": 195903.1,
+      "share_value_pct": 3.7672898639854298
+    },
+    {
+      "month": "2022-01",
+      "sales_value": 180381.8,
+      "share_value_pct": 3.723598573056604
+    },
+    {
+      "month": "2022-02",
+      "sales_value": 173812.7,
+      "share_value_pct": 3.872327527832754
+    },
+    {
+      "month": "2022-03",
+      "sales_value": 214124.7,
+      "share_value_pct": 4.076386174088524
+    },
+    {
+      "month": "2022-04",
+      "sales_value": 264452.8,
+      "share_value_pct": 4.7453557270352915
+    },
+    {
+      "month": "2022-05",
+      "sales_value": 312813.4,
+      "share_value_pct": 4.983666565200628
+    },
+    {
+      "month": "2022-06",
+      "sales_value": 490383.2,
+      "share_value_pct": 6.303612334975027
+    },
+    {
+      "month": "2022-07",
+      "sales_value": 656278.5,
+      "share_value_pct": 6.67892779725231
+    },
+    {
+      "month": "2022-08",
+      "sales_value": 718728.9,
+      "share_value_pct": 6.89262254558247
+    },
+    {
+      "month": "2022-09",
+      "sales_value": 586255.8,
+      "share_value_pct": 6.522106470216643
+    },
+    {
+      "month": "2022-10",
+      "sales_value": 469569.6,
+      "share_value_pct": 6.280138088594146
+    },
+    {
+      "month": "2022-11",
+      "sales_value": 345511.7,
+      "share_value_pct": 5.668126432961238
+    },
+    {
+      "month": "2022-12",
+      "sales_value": 656055.5,
+      "share_value_pct": 10.933499943170968
+    },
+    {
+      "month": "2023-01",
+      "sales_value": 771068.2000000001,
+      "share_value_pct": 9.621633738049775
+    },
+    {
+      "month": "2023-02",
+      "sales_value": 627991.0,
+      "share_value_pct": 8.54446490101875
+    },
+    {
+      "month": "2023-03",
+      "sales_value": 741331.0,
+      "share_value_pct": 9.202098371003268
+    },
+    {
+      "month": "2023-04",
+      "sales_value": 878732.1,
+      "share_value_pct": 9.587760274184909
+    },
+    {
+      "month": "2023-05",
+      "sales_value": 998937.2,
+      "share_value_pct": 9.306961348391585
+    },
+    {
+      "month": "2023-06",
+      "sales_value": 1166716.1,
+      "share_value_pct": 9.373798086701449
+    },
+    {
+      "month": "2023-07",
+      "sales_value": 1380948.6,
+      "share_value_pct": 9.49167885678624
+    },
+    {
+      "month": "2023-08",
+      "sales_value": 1431027.0,
+      "share_value_pct": 9.695382023630222
+    },
+    {
+      "month": "2023-09",
+      "sales_value": 1196430.6,
+      "share_value_pct": 9.383680374638976
+    },
+    {
+      "month": "2023-10",
+      "sales_value": 1020619.8,
+      "share_value_pct": 9.09259503744205
+    },
+    {
+      "month": "2023-11",
+      "sales_value": 843520.7999999999,
+      "share_value_pct": 8.940723930843623
+    },
+    {
+      "month": "2023-12",
+      "sales_value": 714614.0,
+      "share_value_pct": 8.751424094760562
+    },
+    {
+      "month": "2024-01",
+      "sales_value": 695385.60151,
+      "share_value_pct": 8.481273030808726
+    },
+    {
+      "month": "2024-02",
+      "sales_value": 745670.95832,
+      "share_value_pct": 8.415930132166228
+    },
+    {
+      "month": "2024-03",
+      "sales_value": 789493.27838,
+      "share_value_pct": 8.661684748671357
+    },
+    {
+      "month": "2024-04",
+      "sales_value": 975246.73994,
+      "share_value_pct": 9.262419980532128
+    },
+    {
+      "month": "2024-05",
+      "sales_value": 1149105.78663,
+      "share_value_pct": 9.431812826305014
+    },
+    {
+      "month": "2024-06",
+      "sales_value": 1330044.232,
+      "share_value_pct": 9.803757010399874
+    },
+    {
+      "month": "2024-07",
+      "sales_value": 1613624.61663,
+      "share_value_pct": 10.02957989297785
+    },
+    {
+      "month": "2024-08",
+      "sales_value": 1717507.103,
+      "share_value_pct": 10.044914577612229
+    },
+    {
+      "month": "2024-09",
+      "sales_value": 1498993.65925,
+      "share_value_pct": 9.444622497057258
+    },
+    {
+      "month": "2024-10",
+      "sales_value": 1176788.56681,
+      "share_value_pct": 8.834833485312751
+    },
+    {
+      "month": "2024-11",
+      "sales_value": 949264.45951,
+      "share_value_pct": 8.533195054866574
+    },
+    {
+      "month": "2024-12",
+      "sales_value": 792026.90251,
+      "share_value_pct": 8.370069228664175
+    },
+    {
+      "month": "2025-01",
+      "sales_value": 521741.43494,
+      "share_value_pct": 8.688810859385288
+    },
+    {
+      "month": "2025-02",
+      "sales_value": 512664.97775,
+      "share_value_pct": 8.68738633983049
+    },
+    {
+      "month": "2025-03",
+      "sales_value": 572098.64506,
+      "share_value_pct": 8.715890457139887
+    },
+    {
+      "month": "2025-04",
+      "sales_value": 731753.512,
+      "share_value_pct": 9.314015257305627
+    },
+    {
+      "month": "2025-05",
+      "sales_value": 838223.15688,
+      "share_value_pct": 9.2392900593812
+    },
+    {
+      "month": "2025-06",
+      "sales_value": 925990.70763,
+      "share_value_pct": 9.24840805568742
+    },
+    {
+      "month": "2025-07",
+      "sales_value": 1094904.48863,
+      "share_value_pct": 9.48225216538019
+    },
+    {
+      "month": "2025-08",
+      "sales_value": 1126092.41375,
+      "share_value_pct": 9.621841402388958
+    },
+    {
+      "month": "2025-09",
+      "sales_value": 909420.21513,
+      "share_value_pct": 8.894545668936352
+    },
+    {
+      "month": "2025-10",
+      "sales_value": 749025.98388,
+      "share_value_pct": 8.339109188879165
+    },
+    {
+      "month": "2025-11",
+      "sales_value": 634267.68113,
+      "share_value_pct": 8.459555688287656
+    },
+    {
+      "month": "2025-12",
+      "sales_value": 617527.38488,
+      "share_value_pct": 8.830257251170357
+    }
+  ],
+  "province_drilldown": {
+    "latest_fq": "Q1",
+    "top_up": [],
+    "top_down": [],
+    "table": []
+  },
+  "channel_drilldown": {
+    "latest_fq": "Q1",
+    "top_up": [],
+    "top_down": [],
+    "table": []
+  },
+  "metric_definition": {
+    "sales_value": "销售额",
+    "sales_volume": "销售量",
+    "price": "单价=销额/销量",
+    "wdist_pct": "加权铺货率",
+    "ndist_pct": "数值铺货率",
+    "velocity_value": "单点卖力=销额/加权铺货率（百分点口径）",
+    "share_value_pct": "销额份额",
+    "share_decompose": "销额份额 = 卖力份额 x 加权铺货率（近似拆解）"
+  }
+}

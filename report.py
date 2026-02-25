@@ -58,7 +58,7 @@ def create_pdf(sections, out_path="Nielsen_Report.pdf"):
     )
 
     story = []
-    story.append(Paragraph("Nielsen 市场分析报告", title_style))
+    story.append(Paragraph("尼尔森 市场分析报告", title_style))
     story.append(Spacer(1, 12))
 
     # 分段写入（你要的“拆分打印”就在这里）
